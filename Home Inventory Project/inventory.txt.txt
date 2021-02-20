@@ -1,0 +1,12 @@
+1
+Dog
+room
+234
+false
+567
+02/02/2022
+shop
+good
+C:\Users\hp\Pictures\Saved Pictures\Screenshot_2020-10-26-20-42-47-33.png
+1
+kithen
